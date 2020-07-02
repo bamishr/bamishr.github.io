@@ -2,8 +2,8 @@
   "name": "Badrish Mishra",
   "short_name": "Badrish Mishra",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/images/icon_hu1f8b14d0fbd3ad6e7183c5a85d0c1e16_12053_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
